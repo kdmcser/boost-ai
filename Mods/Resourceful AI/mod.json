@@ -1,0 +1,12 @@
+{
+	"name" : "Resourceful AI",
+	"description" : "Boost AI by giving extra resources so it can quickly develop its towns. Amount of resources depends on selected map difficulty.",
+	"version" : "2.0",
+	"author" : "val-gaav",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"modType" : "AI",
+	"conflicts":["boost-ai.powerful ai"],
+	"keepDisabled": true
+}
