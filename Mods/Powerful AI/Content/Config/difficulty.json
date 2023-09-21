@@ -12,7 +12,13 @@
 					"val" : 10,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				}
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 10,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
 			],
 			"battleBonuses": 
 			[
@@ -41,7 +47,13 @@
 					"val" : 30,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				}
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 20,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
 			],
 			"battleBonuses":
 			[
@@ -70,7 +82,13 @@
 					"val" : 50,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				}
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 30,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
 			],
 			"battleBonuses":
 			[
@@ -99,7 +117,13 @@
 					"val" : 80,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				}
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 40,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
 			],
 			"battleBonuses":
 			[
@@ -128,7 +152,13 @@
 					"val" : 100,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
-				}
+				},
+				{
+					"type" : "CREATURE_GROWTH_PERCENT",
+					"val" : 50,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
 			],
 			"battleBonuses":
 			[
