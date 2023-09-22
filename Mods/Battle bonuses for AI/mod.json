@@ -1,0 +1,10 @@
+{
+	"name" : "Battle bonuses for AI",
+	"description" : "Gives advantage for AI player during battles with neutrals.",
+	"version" : "1.0",
+	"author" : "Nordsoft",
+	"licenseName" : "Creative Commons Attribution-ShareAlike",
+	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
+	"contact" : "http://forum.vcmi.eu/index.php",
+	"modType" : "AI"
+}

@@ -1,7 +1,7 @@
 {
 	"name" : "Boost AI",
-	"description" : "Rebalances difficulty system giving AI more advantages. Provides few options for boosting, select appropriate submod",
-	"version" : "0.1",
+	"description" : "Rebalances difficulty system giving AI more advantages. Provides few options for boosting, you can control by enabling/disabling submods",
+	"version" : "0.2",
 	"author" : "Nordsoft",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
