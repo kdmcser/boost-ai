@@ -8,13 +8,20 @@
 			[
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
-					"val" : 10,
+					"val" : 24,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
 				{
 					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 10,
+					"val" : 12,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 185,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -32,7 +39,14 @@
 				},
 				{
 					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 20,
+					"val" : 15,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 250,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -44,13 +58,20 @@
 			[
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
-					"val" : 50,
+					"val" : 39,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
 				{
 					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 30,
+					"val" : 20,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 325,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -62,13 +83,20 @@
 			[
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
-					"val" : 80,
+					"val" : 48,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
 				{
 					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 40,
+					"val" : 25,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 400,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -80,13 +108,20 @@
 			[
 				{
 					"type" : "HERO_EXPERIENCE_GAIN_PERCENT",
-					"val" : 100,
+					"val" : 60,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
 				{
 					"type" : "CREATURE_GROWTH_PERCENT",
-					"val" : 50,
+					"val" : 30,
+					"duration" : "PERMANENT",
+					"sourceType" : "OTHER"
+				},
+				{
+					"type" : "GENERATE_RESOURCE",
+					"subtype" : "resource.gold",
+					"val" : 500,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},

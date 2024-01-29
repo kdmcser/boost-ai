@@ -1,7 +1,7 @@
 {
 	"name" : "Battle bonuses for AI",
-	"description" : "Gives advantage for AI player during battles with neutrals.",
-	"version" : "1.0",
+	"description" : "Gives advantage for AI player during battles with neutrals. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels.",
+	"version" : "1.1",
 	"author" : "Nordsoft",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
