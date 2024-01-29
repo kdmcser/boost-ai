@@ -22,7 +22,7 @@
 				{
 					"type" : "GENERATE_RESOURCE",
 					"subtype" : "resource.gold",
-					"val" : 185,
+					"val" : 800,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -227,7 +227,7 @@
 				{
 					"type" : "GENERATE_RESOURCE",
 					"subtype" : "resource.gold",
-					"val" : 400,
+					"val" : 1600,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
@@ -295,7 +295,7 @@
 				{
 					"type" : "GENERATE_RESOURCE",
 					"subtype" : "resource.gold",
-					"val" : 500,
+					"val" : 2000,
 					"duration" : "PERMANENT",
 					"sourceType" : "OTHER"
 				},
