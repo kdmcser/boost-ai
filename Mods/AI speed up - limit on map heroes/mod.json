@@ -10,7 +10,7 @@
 	"keepDisabled" : true,
 	"depends" :
 	[
-    "Boost-ai.Global bonuses for AI",
+	"Boost-ai.Global bonuses for AI",
 	"Boost-ai.Resourceful AI",
 	],
 	"settings" : {
