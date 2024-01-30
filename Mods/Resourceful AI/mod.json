@@ -1,7 +1,7 @@
 {
 	"name" : "Resourceful AI",
-	"description" : "Boost AI by giving extra resources so it can quickly develop its towns. Amount of resources depends on selected map difficulty.",
-	"version" : "2.0",
+	"description" : "Boost AI by giving extra starting resources. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels.",
+	"version" : "2.1",
 	"author" : "val-gaav",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",

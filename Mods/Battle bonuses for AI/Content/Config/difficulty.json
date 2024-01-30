@@ -8,7 +8,7 @@
 			[
 				{
 					"type" : "STACK_HEALTH",
-					"val" : 25,
+					"val" : 40,
 					"valueType" : "PERCENT_TO_ALL",
 					"duration" : "ONE_BATTLE",
 					"sourceType" : "OTHER"
@@ -46,7 +46,7 @@
 			[
 				{
 					"type" : "STACK_HEALTH",
-					"val" : 100,
+					"val" : 65,
 					"valueType" : "PERCENT_TO_ALL",
 					"duration" : "ONE_BATTLE",
 					"sourceType" : "OTHER"
@@ -65,7 +65,7 @@
 			[
 				{
 					"type" : "STACK_HEALTH",
-					"val" : 150,
+					"val" : 80,
 					"valueType" : "PERCENT_TO_ALL",
 					"duration" : "ONE_BATTLE",
 					"sourceType" : "OTHER"
@@ -84,7 +84,7 @@
 			[
 				{
 					"type" : "STACK_HEALTH",
-					"val" : 200,
+					"val" : 100,
 					"valueType" : "PERCENT_TO_ALL",
 					"duration" : "ONE_BATTLE",
 					"sourceType" : "OTHER"

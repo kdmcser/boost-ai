@@ -1,8 +1,8 @@
 {
 	"name" : "Global bonuses for AI",
-	"description" : "AI heroes gain experience faster and increased creatures growth in AI towns",
-	"version" : "1.0",
-	"author" : "Nordsoft",
+	"description" : "AI heroes generate gold bonuses and gain experience faster, also creatures growth is increased in AI towns. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels.",
+	"version" : "1.1",
+	"author" : "Nordsoft, val-gaav",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",

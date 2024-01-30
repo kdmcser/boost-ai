@@ -1,18 +1,22 @@
 {
 	"name" : "AI speed up - limit on map heroes",
-	"description" : "This option will limt on map heroes to two per player. This way AI will play very fast turns (Nullkiller AI) as it will not do complicated pathfinding/goals or use hero-chains",
-	"version" : "1.2",
+	"description" : "This option will limt on map heroes to two per player for both human and AI. For AI the benefit of this option is that it will end up with strong and high level heroes and will not split armies. It will focus on developing just 2 heroes. AI also gets daily resource/experience/growth bonuses optimized for two heroes on map limit. Bonuses scale with selected game difficulty, and are greater on higher difficulty levels. For human players two hero limit means that map exploration becomes more difficult, as no heroes chains can be used. With this mod turned on, there is also a slight speed increase in AI turns as AI will not do complicated pathfinding/goals or use hero-chains. This might be important for old machines with slow CPUs or games on large maps with 8 players.",
+	"version" : "1.3",
 	"author" : "val-gaav",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "AI",
 	"keepDisabled" : true,
-	
+	"depends" :
+	[
+	"Boost-ai.Global bonuses for AI",
+	"Boost-ai.Resourceful AI",
+	],
 	"settings" : {
 		"heroes" : {
 			"perPlayerOnMapCap" : 2,
-			"perPlayerTotalCap" : 2
+			"perPlayerTotalCap" : 4
 		}
 	}
 }
