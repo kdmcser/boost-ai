@@ -1,6 +1,6 @@
 {
-	"name" : "neutral stack experiense",
-	"description" : "increase neutral stack experience gaining t0 500xp per day compairing with 100hp/day by default. this way fights with neutral mobs will be harder and more interesting because of additional bonuses.",
+	"name" : "Neutral stack experience",
+	"description" : "Increases neutral stack experience gaining to 500xp per day compared to 100xp/day by default. This way fights with neutral mobs will be harder and more interesting because of additional bonuses.",
 	"version" : "1.0",
 	"author" : "faust.twi",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
