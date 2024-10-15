@@ -1,7 +1,7 @@
 {
 	"name" : "Boost AI",
 	"description" : "Rebalances difficulty system giving AI more advantages. Provides few options for boosting, you can control by enabling/disabling submods",
-	"version" : "0.4",
+	"version" : "0.5",
 	"author" : "Nordsoft, val-gaav",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -10,5 +10,14 @@
 	"compatibility" :
 	{
 		"min" : "1.5.0"
+	},
+	"changelog" :
+	{
+		"0.4"  : [ "Initial release" ],
+		"0.5"  : [ "Czech translation by George King" ]
+	},
+	"czech" : {
+		"name" : "Zesílená AI",
+		"description" : "Přepracovává systém obtížnosti, čímž poskytuje AI více výhod. Nabízí několik možností pro zesílení, které můžete ovládat povolením nebo zakázáním jednotlivých submodů."
 	}
 }

@@ -6,5 +6,9 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"modType" : "AI"
+	"modType" : "AI",
+	"czech" : {
+		"name" : "Globální bonusy pro AI",
+		"description" : "Hrdinové AI generují zlato jako bonus a získávají zkušenosti rychleji, také růst jednotek v městech AI je zvýšen. Bonusy se stupňují podle zvolené obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."
+	}
 }

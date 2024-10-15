@@ -18,5 +18,9 @@
 			"perPlayerOnMapCap" : 2,
 			"perPlayerTotalCap" : 4
 		}
+	},
+	"czech" : {
+		"name" : "Zrychlení AI - omezení hrdinů na mapě",
+		"description" : "Tato volba omezí počet hrdinů na mapě na dva na hráče, jak pro lidské, tak i pro AI hráče. Pro AI je výhodou, že se zaměří na silné a vysoce úrovňové hrdiny a nebude rozdělovat své armády. Zaměří se pouze na rozvoj dvou hrdinů. AI také získává denní bonusy na zdroje, zkušenosti a růst, optimalizované pro limit dvou hrdinů na mapě. Tyto bonusy se zvyšují s úrovní obtížnosti hry a jsou větší na vyšších úrovních. Pro lidské hráče znamená omezení dvou hrdinů na mapě větší obtíž při prozkoumávání mapy, protože nelze využít řetězení hrdinů. S tímto modem dochází také k mírnému zrychlení tahů AI, protože neprovádí složité plánování cesty nebo řetězení hrdinů. To může být důležité pro starší stroje s pomalejšími procesory nebo pro hry na velkých mapách s 8 hráči."
 	}
 }
