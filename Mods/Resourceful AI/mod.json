@@ -6,5 +6,9 @@
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
-	"modType" : "AI"
+	"modType" : "AI",
+	"czech" : {
+		"name" : "Zásobovaná AI",
+		"description" : "Posiluje AI tím, že mu poskytuje dodatečné počáteční zdroje. Bonusy se stupňují podle vybrané obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."
+	}
 }
