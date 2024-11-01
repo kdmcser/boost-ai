@@ -7,6 +7,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "AI",
+	"chinese" : {
+		"name" : "AI全局奖励",
+		"description" : " AI英雄会产生额外的金币奖励并更快地获得经验，同时AI城镇中的生物成长速度也会增加。奖励根据所选游戏难度的不同而有所变化，难度越高，奖励越大。"
+	},
 	"czech" : {
 		"name" : "Globální bonusy pro AI",
 		"description" : "Hrdinové AI generují zlato jako bonus a získávají zkušenosti rychleji, také růst jednotek v městech AI je zvýšen. Bonusy se stupňují podle zvolené obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."

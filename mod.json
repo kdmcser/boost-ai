@@ -1,7 +1,7 @@
 {
 	"name" : "Boost AI",
 	"description" : "Rebalances difficulty system giving AI more advantages. Provides few options for boosting, you can control by enabling/disabling submods",
-	"version" : "0.5",
+	"version" : "0.6",
 	"author" : "Nordsoft, val-gaav",
 	"licenseName" : "Creative Commons Attribution-ShareAlike",
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
@@ -14,7 +14,12 @@
 	"changelog" :
 	{
 		"0.4"  : [ "Initial release" ],
-		"0.5"  : [ "Czech translation by George King" ]
+		"0.5"  : [ "Czech translation by George King" ],
+		"0.6"  : [ "Chinese translation by rapsedwind" ]
+	},
+	"chinese": {
+		"name": "增强型AI",
+		"description": "调整难度系统，使AI获得更多优势。提供少量增强选项，你可以通过启用/禁用子模组来控制它们。（本mod由大颗米汉化）"
 	},
 	"czech" : {
 		"name" : "Zesílená AI",

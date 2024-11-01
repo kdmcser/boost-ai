@@ -7,6 +7,10 @@
 	"licenseURL" : "http://creativecommons.org/licenses/by-sa/4.0/deed",
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "AI",
+	"chinese" : {
+		"name" : "AI更多资源",
+		"description" : "通过给予额外的初始资源来提升AI。奖励根据所选游戏难度的不同而有所变化，难度越高，奖励越大。"
+	},
 	"czech" : {
 		"name" : "Zásobovaná AI",
 		"description" : "Posiluje AI tím, že mu poskytuje dodatečné počáteční zdroje. Bonusy se stupňují podle vybrané obtížnosti hry a jsou větší na vyšších úrovních obtížnosti."

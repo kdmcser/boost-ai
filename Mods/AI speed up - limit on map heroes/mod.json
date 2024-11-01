@@ -19,6 +19,10 @@
 			"perPlayerTotalCap" : 4
 		}
 	},
+	"chinese" : {
+		"name" : "AI速度加快，限制地图英雄数量",
+		"description" : "此选项将限制地图上每位玩家（包括人类玩家和AI玩家）的英雄数量为两个。对于AI而言，此选项的优点在于最终能够培养出强大且高等级的英雄，并且不会分散兵力。AI将专注于发展仅有的两名英雄。同时，针对地图上英雄数量的限制，AI还会获得每日资源、经验和成长加成，这些加成会根据所选游戏难度的不同而有所变化，难度越高，加成越大。对于人类玩家而言，两名英雄的限制意味着地图探索将变得更加困难，因为无法使用英雄连锁技能。开启此模组后，AI的行动回合也会有轻微的速度提升，因为AI无需进行复杂的寻路/目标设定或使用英雄连锁技能。这对于拥有慢速CPU的旧机器或在8人参与的大型地图上进行的游戏来说可能尤为重要。"
+	},
 	"czech" : {
 		"name" : "Zrychlení AI - omezení hrdinů na mapě",
 		"description" : "Tato volba omezí počet hrdinů na mapě na dva na hráče, jak pro lidské, tak i pro AI hráče. Pro AI je výhodou, že se zaměří na silné a vysoce úrovňové hrdiny a nebude rozdělovat své armády. Zaměří se pouze na rozvoj dvou hrdinů. AI také získává denní bonusy na zdroje, zkušenosti a růst, optimalizované pro limit dvou hrdinů na mapě. Tyto bonusy se zvyšují s úrovní obtížnosti hry a jsou větší na vyšších úrovních. Pro lidské hráče znamená omezení dvou hrdinů na mapě větší obtíž při prozkoumávání mapy, protože nelze využít řetězení hrdinů. S tímto modem dochází také k mírnému zrychlení tahů AI, protože neprovádí složité plánování cesty nebo řetězení hrdinů. To může být důležité pro starší stroje s pomalejšími procesory nebo pro hry na velkých mapách s 8 hráči."

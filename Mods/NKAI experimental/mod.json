@@ -8,6 +8,10 @@
 	"contact" : "http://forum.vcmi.eu/index.php",
 	"modType" : "AI",
 	"keepDisabled" : true,
+	"chinese" : {
+		"name" : "NKAI 测试版",
+		"description" : "此选项改变了Nullkiller AI计算路径的方式，使其更快，但此功能尚未经过充分测试。应该可以提高大地图上的速度。"
+	},
 	"czech" : {
 		"name" : "Experimentální NK-AI",
 		"description" : "Tato volba mění způsob, jakým AI Nullkiller počítá cesty, což by mělo zrychlit jeho výkon, ale tato funkce nebyla ještě důkladně otestována. Měla by zlepšit rychlost na velkých mapách."
